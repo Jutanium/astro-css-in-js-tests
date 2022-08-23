@@ -1,5 +1,4 @@
 import { defineConfig } from 'astro/config';
-import linaria from '@linaria/rollup';
 
 import solidJs from "@astrojs/solid-js";
 
